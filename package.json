@@ -1,0 +1,13 @@
+{
+  "name": "google-sheets-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "rob-kistner <dev@robkistner.com>",
+  "license": "MIT",
+  "scripts": {
+    "serve": "live-server"
+  },
+  "dependencies": {
+    "live-server": "^1.2.0"
+  }
+}
