@@ -5,7 +5,7 @@
   "author": "rob-kistner <dev@robkistner.com>",
   "license": "MIT",
   "scripts": {
-    "serve": "live-server"
+    "serve": "live-server src"
   },
   "dependencies": {
     "live-server": "^1.2.0"
